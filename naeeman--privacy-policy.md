@@ -1,5 +1,3 @@
----
-
 # Privacy Policy – Naeeman App
 
 *Last updated: September 7, 2025*
