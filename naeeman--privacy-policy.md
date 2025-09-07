@@ -1,5 +1,3 @@
-تمام ✅ خليني أجهزلك ملف README بصيغة **Privacy Policy** بسيط وواضح يشرح سياسة الخصوصية لتطبيق **نعيمًا (Naeeman)** بحيث ينفع تحطه في الـ repo وتشارك الرابط مع مراجعة App Store:
-
 ---
 
 # Privacy Policy – Naeeman App
